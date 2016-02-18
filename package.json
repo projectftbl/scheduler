@@ -20,7 +20,8 @@
     "@ftbl/log": "^1.0.1",
     "bluebird": "^2.9.34",
     "chalk": "^1.1.1",
-    "cron": "^1.1.0"
+    "cron": "^1.1.0",
+    "lodash": "^4.5.0"
   },
   "devDependencies": {
     "@ftbl/gulp": "^1.5.0",
