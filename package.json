@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/scheduler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Scheduler",
   "main": "node index",
   "scripts": {
