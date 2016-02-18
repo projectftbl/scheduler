@@ -7,8 +7,8 @@
     "test": "gulp test"
   },
   "engines": {
-    "node": "> 0.12.x",
-    "npm": "> 2.x"
+    "node": ">=0.12.x",
+    "npm": ">=2.x"
   },
   "author": "Johnny Hall",
   "license": "MIT",
